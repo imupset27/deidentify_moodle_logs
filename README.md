@@ -102,7 +102,7 @@ project_folder/
 **License:** MIT.
 
 **Please cite as:**
-Lacap, Eduardo Jr. M. (2026). *R script for de-identifying Moodle activity logs, Graduate School of Education, University of Rizal System (Morong)* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24385751
+Lacap, E. J. (2026). R script for De-identifying MOODLE Activity Logs (Version v1.0.0) [Computer software]. Graduate School of Education, University of Rizal System (Morong). https://doi.org/10.5281/zenodo.24385751
 
 ## 9. Changelog
 
