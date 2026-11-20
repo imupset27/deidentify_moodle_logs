@@ -1,6 +1,6 @@
 
-Project: R script for De-identifying MOODLE Activity Logs \\
-File: 01_deidentify_moodle_logs.R \n\n
+Project: R script for De-identifying MOODLE Activity Logs\
+File: 01_deidentify_moodle_logs.R\
 Author: Eduardo M. Lacap, Jr.
 Copyright (c) 2026 Eduardo M. Lacap, Jr.
 
