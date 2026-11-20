@@ -16,7 +16,7 @@ and other purposes under the MIT License.
 
 **Entry type:** Code / software
 **Version:** 1.0  **Date of deposit:** 2026-11-20
-**DOI of this entry:** [code DOI]
+**DOI of this entry:** https://doi.org/10.5281/zenodo.24385751
 **Authors / contact:** Eduardo M. Lacap, Jr., Graduate School of Education, University of Rizal System (Morong), lacapeduardo27@gmail.com | deangradm@urs.edu.ph
 
 ## 1. Overview
@@ -102,7 +102,7 @@ project_folder/
 **License:** MIT.
 
 **Please cite as:**
-Lacap, Eduardo Jr. M. (2026). *R script for de-identifying Moodle activity logs, Graduate School of Education, University of Rizal System (Morong)* (Version 1.0) [Computer software]. Zenodo. https://doi.org/[code DOI]
+Lacap, Eduardo Jr. M. (2026). *R script for de-identifying Moodle activity logs, Graduate School of Education, University of Rizal System (Morong)* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24385751
 
 ## 9. Changelog
 
