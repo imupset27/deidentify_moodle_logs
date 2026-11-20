@@ -102,8 +102,8 @@ project_folder/
 **License:** MIT.
 
 **Please cite as:**
-Lacap, E. J. (2026). R script for De-identifying MOODLE Activity Logs (Version v1.0.0) [Computer software]. Graduate School of Education, University of Rizal System (Morong). https://doi.org/10.5281/zenodo.24385751
+Lacap, E. J. (2026). *R script for De-identifying MOODLE Activity Logs (Version v1.0.0) [Computer software]*. Graduate School of Education, University of Rizal System (Morong). https://doi.org/10.5281/zenodo.24385751
 
 ## 9. Changelog
 
-- **v1.0** (2026-11-20): Initial release.
+- **v1.0.0** (2026-11-20): Initial release.
