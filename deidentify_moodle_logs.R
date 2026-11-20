@@ -4,9 +4,9 @@
 # TITLE       : De-identification of Moodle activity logs (MATHC501)
 # VERSION     : 1.0
 # DATE        : 2026 - 11 - 14
-# AUTHOR      : Dr. Eduardo M. Lacap, Jr., [ORCID], Graduate School of Education, University of Rizal Sytem (Morong), 
-# OSF PROJECT : [OSF link / DOI]
-# LICENSE     : MIT (code). The released data are licensed separately (see README).
+# AUTHOR      : Dr. Eduardo M. Lacap, Jr., Graduate School of Education, University of Rizal Sytem (Morong), 
+# OSF PROJECT : https://doi.org/10.5281/zenodo.24385751
+# LICENSE     : MIT
 #
 # PURPOSE
 #   Replace person identifiers in a raw Moodle log export with pseudonymous
