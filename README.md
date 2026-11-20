@@ -1,5 +1,4 @@
 
-# ============================================================
 # Project: R script for De-identifying MOODLE Activity Logs
 # File: 01_deidentify_moodle_logs.R
 # Author: Eduardo M. Lacap, Jr.
@@ -10,7 +9,7 @@
 #
 # This script is made available for research, educational,
 # and other purposes under the MIT License.
-# ============================================================
+
 
 
 # R Script for De-identifying Moodle Activity Logs, Graduate School of Education, University of Rizal System (Morong)
