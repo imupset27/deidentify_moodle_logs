@@ -1,10 +1,10 @@
 Project: R script for De-identifying MOODLE Activity Logs\
 File: deidentify_moodle_logs_and_grades.R\
 Author: Eduardo M. Lacap, Jr.\
-Copyright (c) 2026 Eduardo M. Lacap, Jr.\
+Copyright (c) 2026 Eduardo M. Lacap, Jr.
 
 License: MIT License\
-SPDX-License-Identifier: MIT\
+SPDX-License-Identifier: MIT
 
 This script is made available for research, educational, and other purposes under the MIT License.
 
