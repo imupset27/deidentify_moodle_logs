@@ -12,7 +12,7 @@ This script is made available for research, educational, and other purposes unde
 
 **Entry type:** Code / software\
 **Version:** 1.1  **Date of deposit:** 2026-11-21\
-**DOI of this entry:** https://doi.org/10.5281/zenodo.24385751 \
+**DOI of this entry:** https://doi.org/10.5281/zenodo.24416477 \
 **Authors / contact:** Eduardo M. Lacap, Jr., Graduate School of Education, University of Rizal System (Morong), lacapeduardo27@gmail.com | deangradm@urs.edu.ph
 
 ## 1. Overview
@@ -149,7 +149,7 @@ project_folder/
 **License:** MIT.
 
 **Please cite as:**
-Lacap, Eduardo Jr. M. (2026). *R script for de-identifying Moodle activity logs (Version 1.1)* [Computer software]. Graduate School of Education, University of Rizal System (Morong). https://doi.org/10.5281/zenodo.24385751
+Lacap, Eduardo Jr. M. (2026). *R script for de-identifying Moodle activity logs (Version 1.1)* [Computer software]. Graduate School of Education, University of Rizal System (Morong). https://doi.org/10.5281/zenodo.24416477
 
 ## 9. Changelog
 
