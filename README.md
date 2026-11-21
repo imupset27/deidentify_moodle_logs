@@ -8,7 +8,7 @@ SPDX-License-Identifier: MIT\
 
 This script is made available for research, educational, and other purposes under the MIT License.
 
-# R Script for De-identifying Moodle Activity Logs and Quiz Grade Exports, Graduate School of Education, University of Rizal System (Morong)
+# R Script for De-identifying Moodle Activity Logs
 
 **Entry type:** Code / software\
 **Version:** 1.1  **Date of deposit:** 2026-11-21\
